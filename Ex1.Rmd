@@ -1,7 +1,6 @@
 ---
-title: "Lab 1"
+title: "Ex 1"
 author: "Sanjana Surendra"
-date: "Due Date 9/10"
 output: html_document
 ---
 
